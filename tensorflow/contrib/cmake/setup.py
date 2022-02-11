@@ -31,7 +31,7 @@ _VERSION = '0.12.0-rc0-cmake-experimental'
 REQUIRED_PACKAGES = [
     'numpy >= 1.11.0',
     'six >= 1.10.0',
-    'protobuf == 3.0.0',
+    'protobuf == 3.15.0',
 ]
 
 # python3 requires wheel 0.26
